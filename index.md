@@ -13,7 +13,7 @@
 1. Turn a turn, turn a turn _Turn AAAAAAA_
 2. **TURN A, GUNDAM**
 
-![the turn a](/Users/jonwude/Downloads/turna.png)
+![the turn a](/images/turna.png)
 
 
 
