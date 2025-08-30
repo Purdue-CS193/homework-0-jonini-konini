@@ -3,8 +3,8 @@
 
 # Jonathan's first CS193 Homework
 ## Please give it lots of points
-### Would make me very happy
 
+### Things I like about this class: 
 - i like how my friends are in this class
 - i like vim(_lie_)
 - i like learning how to use the terminal and vim more effectively
